@@ -1,0 +1,33 @@
+{
+    "workbench.startupEditor": "none",
+    "enableTelemetry": true,
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontWeight": "500",
+    "files.autoSave": "onFocusChange",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "breadcrumbs.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.fontLigatures": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "git.confirmSync": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 13
+}
