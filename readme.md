@@ -82,3 +82,12 @@ Voici mon environnement de travail car ce fichier me permet d'avoir connaissance
 ## zsh plugins
     - zsh-suggestion
     - creation des alias (update, upgrade, install, remove, db et docker)
+    
+## fonts 
+    - jebrains mono
+    - SF mono
+    - lato
+    - lexend
+    - montserrat
+    - roboto
+    - ms font
