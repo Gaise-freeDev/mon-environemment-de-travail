@@ -1,11 +1,11 @@
-## Mon environement de travail 
+# Mon environement de travail 
 Voici mon environnement de travail car ce fichier me permet d'avoir connaissance des outils dont j'ai besoin en utilisant le systeme linux.
 
 
-# OS : 
+## OS : 
     - ubuntu 
 
-# outils :
+## outils :
     - git
     - node
     - npm 
@@ -28,33 +28,33 @@ Voici mon environnement de travail car ce fichier me permet d'avoir connaissance
     - db browser for sqllite
     - via launcher (optional)
 
-# communaute
+## communaute
     - discord
     - slack
 
-# stokage cloud :
+## stokage cloud :
     - mega
     - dropbox
 
-# images && videos :
+## images && videos :
     - davinci resolve
     - gimp
     - handbrake
     - obs
     - filezilla
 
-# IDEs :
+## IDEs :
     - VS Code
     - android studio
     - pycharm commnity
     - phpstorm
 
-# base de donnees :
+## base de donnees :
     - mysql
     - mongodb (image docker)
     - postgresql (image docker)
 
-# extensions vs code : (synchroniser au compte)
+## extensions vs code : (synchroniser au compte)
     - auto rename tag
     - auto complete tag
     - auto close tag
@@ -79,6 +79,6 @@ Voici mon environnement de travail car ce fichier me permet d'avoir connaissance
     - community material theme
     - marp (presentation des slides)
 
-# zsh plugins
+## zsh plugins
     - zsh-suggestion
     - creation des alias (update, upgrade, install, remove, db et docker)
